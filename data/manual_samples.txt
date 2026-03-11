@@ -1,0 +1,14 @@
+INSTRUCTIONS: Paste emails you've written below, separated by "---".
+Only include emails you actually sent — these teach the system your voice.
+School-related emails work best (replies to teachers, counselors, coaches, etc.).
+You can add as many as you want. The more examples, the better the style match.
+
+Delete this instructions block and start your first example below the first "---".
+
+---
+
+(paste your first email here)
+
+---
+
+(paste your second email here, or delete this section if you only have one)

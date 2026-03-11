@@ -1,0 +1,11 @@
+.env
+credentials.json
+token.json
+token_*.json
+.tmp/
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+data/writing_samples.json
+data/style_profile.md
